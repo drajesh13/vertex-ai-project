@@ -1,0 +1,7 @@
+__pycache__/
+*.log
+*.csv
+*.json
+*.pkl
+*.h5
+venv/

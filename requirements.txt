@@ -1,0 +1,3 @@
+google-cloud-aiplatform
+transformers
+torch
